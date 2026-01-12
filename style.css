@@ -68,7 +68,7 @@ body{
     height: 40px;
     width: 90px;
     font-size: 20px;
-    font-weight: bold ;
+    font-weight: light ;
   }
 #time{
   color: #ffffff;
@@ -201,5 +201,6 @@ body{
     
   }
 }
+
 
 
